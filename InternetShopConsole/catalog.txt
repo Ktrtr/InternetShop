@@ -1,0 +1,8 @@
+{"id":"id1","name":"name1","cost":100.0,"quantity":927}
+{"id":"id2","name":"name2","cost":200.0,"quantity":895}
+{"id":"id3","name":"name3","cost":300.0,"quantity":939}
+{"id":"id4","name":"name4","cost":400.0,"quantity":994}
+{"id":"id5","name":"name5","cost":500.0,"quantity":997}
+{"id":"id6","name":"name6","cost":600.0,"quantity":999}
+{"id":"id7","name":"name7","cost":700.0,"quantity":946}
+~

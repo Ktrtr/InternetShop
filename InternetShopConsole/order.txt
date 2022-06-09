@@ -1,0 +1,5 @@
+{"cost":21900.0,"id":"ClientidOrder","orderState":5}
+{"id":"id1","name":"name1","cost":100.0,"quantity":4}
+{"id":"id2","name":"name2","cost":200.0,"quantity":100}
+{"id":"id3","name":"name3","cost":300.0,"quantity":5}
+~

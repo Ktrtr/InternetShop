@@ -1,0 +1,1 @@
+{"adress":null,"money":78100.0,"id":"Client","password":"123","definition":"Client"}
